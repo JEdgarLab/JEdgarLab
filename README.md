@@ -11,9 +11,9 @@
   <a href="https://github.com/JEdgarLab?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JEdgarLab?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/>
   </a>
-   <a href="https://github.com/JEdgarLab"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JEdgarLab?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
- </p>
- 
+  <a href="https://github.com/JEdgarLab"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JEdgarLab?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>\
+</p>
+
 ## Profile Views
 
 
@@ -53,6 +53,7 @@ Support ChatCool on KoFi:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
 -->
+<!--
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/JEdgarLab"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,nodejs"> </a> </p>
@@ -69,7 +70,16 @@ Support ChatCool on KoFi:
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JEdgarLab&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
-
+-->
+<!--
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="https://github.com/JEdgarLab">![JEdgar's github stats](https://github-readme-stats.vercel.app/api?username=JEdgarLab&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="https://github.com/JEdgarLab">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEdgarLab&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="https://github.com/JEdgarLab"></a>
+</details>
+-->
 ## Top Respositorys
 <!--
   <p align="left">
