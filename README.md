@@ -7,11 +7,11 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-  <a href=""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a></a>
+  <a href=""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/JEdgarLab?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JEdgarLab?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/>
   </a>
-  <a href="https://github.com/JEdgarLab"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JEdgarLab?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>\
+  <a href="https://github.com/JEdgarLab"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JEdgarLab?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
 ## Profile Views
